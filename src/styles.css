@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fafafa;
+}
+
+* {
+  margin: 0px;
+}
+
+.Header {
+  background-color: white;
+  object-fit: contain;
+}
